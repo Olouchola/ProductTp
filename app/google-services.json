@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602525049209",
+    "project_id": "insti-ab88f",
+    "storage_bucket": "insti-ab88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602525049209:android:64d59ff68510be28544fa8",
+        "android_client_info": {
+          "package_name": "io.artcreativity.monpremierprojet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602525049209-h16r176t639o7ikcdacm2u3o6jd9olrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7XxiqjzzDJ4F23g-cs4cHf2AjIdPpAXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602525049209-h16r176t639o7ikcdacm2u3o6jd9olrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
